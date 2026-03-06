@@ -49,10 +49,10 @@ Une arborescence plate et lisible, pour s'y retrouver tout de suite :
 
 ```text
 📁 kaisarchives/
-├── 📄 index.html           # Point d'entrée & Hero "Archives"
+├── 📄 index.html           # Point d'entrée & Hero
 ├── 📄 projects.html        # Portfolio & Réalisations
 ├── 📄 about.html           # Parcours & Stack technique
-├── 📄 contact.html         # Formulaire de contact sécurisé (Honeypot)
+├── 📄 contact.html         # Formulaire de contact sécurisé
 ├── 📄 article-*.html       # Pages dédiées aux notes éditoriales
 ├── 🎨 style.css            # Grilles, variables CSS & Responsive
 └── ⚡ script.js            # Logique de l'interface & Scroll reveal
